@@ -45,7 +45,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me :) </h3>
 
 <p align="center">
-<a href="https://nb-prog.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-nb-prog.github.io-red?style=flat-square&logo=google-chrome"></a>
+<a href="https://nb-prog.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-NB-prog-red?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/nihal-balivada-b6722215b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nihal Balivada-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/nihalb.01/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nihalb.01-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:nihalbal@buffalo.edu"><img alt="Email" src="https://img.shields.io/badge/Email-nihalbal@buffalo.edu-blue?style=flat-square&logo=gmail"></a>
