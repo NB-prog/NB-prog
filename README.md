@@ -50,4 +50,3 @@
 <a href="mailto:nihalbal@buffalo.edu"><img alt="Email" src="https://img.shields.io/badge/Email-nihalbal@buffalo.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [NB-prog](https://github.com/NB-prog)
