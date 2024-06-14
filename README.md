@@ -1,9 +1,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Enjoy coding a lot, love to find the solution to a problem.
+- 🤔 &nbsp; I enjoy coding.
 - 🎓 &nbsp; MS in Computer Science at University at Buffalo, New York.
-- 🌱 &nbsp; Learning more about Full Stack Development, Software Engineering and Machine Learning.
+- 🌱 &nbsp; Learning more about Software Engineering and Artificial Intelligence.
 - 💼 &nbsp; Working as a Software Developement Engineer at AWS ElasticBeanstalk and AWS AppRunner Services.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
